@@ -32,7 +32,6 @@ public class PageEventHandler {
         return (input)->{
             System.out.println("##############");
             System.out.println(input.toString());
-            System.out.println("#############");
 
         };
     }
