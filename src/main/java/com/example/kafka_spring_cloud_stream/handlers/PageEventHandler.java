@@ -35,7 +35,7 @@ public class PageEventHandler {
 
         };
     }
-
+//****
     @Bean
     public Supplier<PageEvent> pageEventSupplier(){
         return ()->{
